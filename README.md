@@ -6,5 +6,5 @@ Night master is a theme for Atom
 
 Open Atom > File > Settings > Install > Theme > Search > night-master
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
