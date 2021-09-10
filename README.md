@@ -2,7 +2,7 @@
 
 Night master is a theme for Atom
 
-Version: 0.4.7
+Version: 0.4.9
 
 ## Info release
 
@@ -15,4 +15,8 @@ v0.5.0 - Stable
 Open Atom > File > Settings > Install > Theme > Search > night-master
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+> Copyright (c) 2021 [vitalsystem](https://github.com/vitalsystem).
+>
+> Released under [MIT](https://choosealicense.com/licenses/mit/) License.
+
+<> with ❤❤❤ for [Atom](https://atom.io)
