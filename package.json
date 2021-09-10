@@ -1,9 +1,9 @@
 {
   "name": "Night Master",
   "theme": "syntax",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "New dark UI theme for Atom",
-  "keywords" : [
+  "keywords": [
     "Night",
     "Master",
     "Dark",
@@ -11,7 +11,7 @@
     "Atom",
     "atom",
     "theme"
-  ]
+  ],
   "license": "MIT",
   "repository": "https://github.com/vitalsystem/night-master-atom-theme",
   "engines": {
