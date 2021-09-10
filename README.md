@@ -18,5 +18,5 @@ Open Atom > File > Settings > Install > Theme > Search > night-master
 > Copyright (c) 2021 [vitalsystem](https://github.com/vitalsystem).
 >
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
-
-<> with ❤❤❤ for [Atom](https://atom.io)
+>
+> <> with ❤❤❤ for [Atom](https://atom.io)
