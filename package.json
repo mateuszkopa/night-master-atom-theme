@@ -4,12 +4,12 @@
   "version": "0.1",
   "description": "New dark UI theme for Atom",
   "keywords" : [
-    "Night"
-    "Master"
-    "Dark"
-    "syntax"
-    "Atom"
-    "atom"
+    "Night",
+    "Master",
+    "Dark",
+    "syntax",
+    "Atom",
+    "atom",
     "theme"
   ]
   "license": "MIT",
