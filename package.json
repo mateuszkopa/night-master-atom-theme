@@ -15,6 +15,6 @@
   "license": "MIT",
   "repository": "https://github.com/vitalsystem/night-master-atom-theme",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
