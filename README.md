@@ -2,7 +2,7 @@
 
 Night master is a theme for Atom
 
-Version: 0.4.3
+Version: 0.4.4
 
 ## Installation
 
