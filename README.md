@@ -18,7 +18,7 @@ Version: 0.5.1 - Stable
 
 ## Installation
 
-Open Atom > File > Settings > Install > Theme > Search > [night-master](https://atom.io/themes/night-master)
+Open Atom > File > Settings > Install > Theme > Search > ***[night-master](https://atom.io/themes/night-master)***
 
 ```
 atom://settings-view/show-package?package=night-master
