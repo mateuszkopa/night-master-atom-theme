@@ -4,11 +4,11 @@ Night master is a theme for Atom
 
 Version: 0.5.1 - Stable
 
-![screenshot](https://user-images.githubusercontent.com/89705384/132922580-fc696655-ab7b-4192-8bfb-c4284bf41996.png)
+![screenshot](https://user-images.githubusercontent.com/89705384/132944845-779a4a94-e7bb-4c5a-b62f-149b85db4b56.png)
 
-![Screenshot-2](https://user-images.githubusercontent.com/89705384/132944134-d27f5f41-6b0e-42dd-944e-f614e33b1661.png)
+![Screenshot-2](https://user-images.githubusercontent.com/89705384/132944854-10bb9d5a-412f-4c92-aa3c-2482d2d8d53c.png))
 
-![colors](![colors](https://user-images.githubusercontent.com/89705384/132944549-17a4554d-eef3-45f3-b0fc-a8d22d6e8827.png)
+![colors](https://user-images.githubusercontent.com/89705384/132944862-22f91515-3db3-4800-ab98-344664f8ff43.png)
 
 ## Info release
 
