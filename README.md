@@ -25,7 +25,7 @@ atom://settings-view/show-package?package=night-master
 ```
 
 > ### License:
-> Copyright (c) 2021 ***[vitalsystem](https://github.com/vitalsystem)***.
+> Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
 >
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
 >
