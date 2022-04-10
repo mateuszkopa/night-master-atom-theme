@@ -24,6 +24,8 @@ Open Atom > File > Settings > Install > Theme > Search > ***[night-master](https
 atom://settings-view/show-package?package=night-master
 ```
 
+https://mateuszk0pa.github.io/night-master-atom-theme/
+
 > ### License:
 > Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
 >
