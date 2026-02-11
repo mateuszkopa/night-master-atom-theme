@@ -1,5 +1,8 @@
 # Night Master
 
+## Switching to archive because Github closed project Atom sadly :(
+
+
 Night master is a theme for Atom
 
 Version: 0.5.1 - Stable
